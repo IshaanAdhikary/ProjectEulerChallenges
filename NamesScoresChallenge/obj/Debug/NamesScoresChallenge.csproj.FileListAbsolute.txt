@@ -1,0 +1,7 @@
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NamesScoresChallenge\bin\Debug\NamesScoresChallenge.exe.config
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NamesScoresChallenge\bin\Debug\NamesScoresChallenge.exe
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NamesScoresChallenge\bin\Debug\NamesScoresChallenge.pdb
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NamesScoresChallenge\obj\Debug\NamesScoresChallenge.csproj.AssemblyReference.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NamesScoresChallenge\obj\Debug\NamesScoresChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NamesScoresChallenge\obj\Debug\NamesScoresChallenge.exe
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NamesScoresChallenge\obj\Debug\NamesScoresChallenge.pdb

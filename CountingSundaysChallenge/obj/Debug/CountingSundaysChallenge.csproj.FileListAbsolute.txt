@@ -1,0 +1,7 @@
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\CountingSundaysChallenge\obj\Debug\CountingSundaysChallenge.csproj.AssemblyReference.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\CountingSundaysChallenge\obj\Debug\CountingSundaysChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\CountingSundaysChallenge\bin\Debug\CountingSundaysChallenge.exe.config
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\CountingSundaysChallenge\bin\Debug\CountingSundaysChallenge.exe
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\CountingSundaysChallenge\bin\Debug\CountingSundaysChallenge.pdb
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\CountingSundaysChallenge\obj\Debug\CountingSundaysChallenge.exe
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\CountingSundaysChallenge\obj\Debug\CountingSundaysChallenge.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\LexicographicPermutationsChallenge\bin\Debug\LexicographicPermutationsChallenge.exe.config
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\LexicographicPermutationsChallenge\bin\Debug\LexicographicPermutationsChallenge.exe
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\LexicographicPermutationsChallenge\bin\Debug\LexicographicPermutationsChallenge.pdb
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\LexicographicPermutationsChallenge\obj\Debug\LexicographicPermutationsChallenge.csproj.AssemblyReference.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\LexicographicPermutationsChallenge\obj\Debug\LexicographicPermutationsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\LexicographicPermutationsChallenge\obj\Debug\LexicographicPermutationsChallenge.exe
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\LexicographicPermutationsChallenge\obj\Debug\LexicographicPermutationsChallenge.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\AmicableNumbersChallenge\bin\Debug\AmicableNumbersChallenge.exe.config
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\AmicableNumbersChallenge\bin\Debug\AmicableNumbersChallenge.exe
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\AmicableNumbersChallenge\bin\Debug\AmicableNumbersChallenge.pdb
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\AmicableNumbersChallenge\obj\Debug\AmicableNumbersChallenge.csproj.AssemblyReference.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\AmicableNumbersChallenge\obj\Debug\AmicableNumbersChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\AmicableNumbersChallenge\obj\Debug\AmicableNumbersChallenge.exe
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\AmicableNumbersChallenge\obj\Debug\AmicableNumbersChallenge.pdb

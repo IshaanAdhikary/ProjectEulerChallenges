@@ -1,0 +1,14 @@
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\bin\Debug\netcoreapp3.1\NonAbundantSumsChallenge.exe
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\bin\Debug\netcoreapp3.1\NonAbundantSumsChallenge.deps.json
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\bin\Debug\netcoreapp3.1\NonAbundantSumsChallenge.runtimeconfig.json
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\bin\Debug\netcoreapp3.1\NonAbundantSumsChallenge.runtimeconfig.dev.json
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\bin\Debug\netcoreapp3.1\NonAbundantSumsChallenge.dll
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\bin\Debug\netcoreapp3.1\NonAbundantSumsChallenge.pdb
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\obj\Debug\netcoreapp3.1\NonAbundantSumsChallenge.csproj.AssemblyReference.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\obj\Debug\netcoreapp3.1\NonAbundantSumsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\obj\Debug\netcoreapp3.1\NonAbundantSumsChallenge.AssemblyInfoInputs.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\obj\Debug\netcoreapp3.1\NonAbundantSumsChallenge.AssemblyInfo.cs
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\obj\Debug\netcoreapp3.1\NonAbundantSumsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\obj\Debug\netcoreapp3.1\NonAbundantSumsChallenge.dll
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\obj\Debug\netcoreapp3.1\NonAbundantSumsChallenge.pdb
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\NonAbundantSumsChallenge\obj\Debug\netcoreapp3.1\NonAbundantSumsChallenge.genruntimeconfig.cache

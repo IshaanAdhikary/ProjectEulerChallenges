@@ -1,0 +1,7 @@
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\MaximumTrianglePathSum\bin\Debug\MaximumTrianglePathSum.exe.config
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\MaximumTrianglePathSum\bin\Debug\MaximumTrianglePathSum.exe
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\MaximumTrianglePathSum\bin\Debug\MaximumTrianglePathSum.pdb
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\MaximumTrianglePathSum\obj\Debug\MaximumTrianglePathSum.csproj.AssemblyReference.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\MaximumTrianglePathSum\obj\Debug\MaximumTrianglePathSum.csproj.CoreCompileInputs.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\MaximumTrianglePathSum\obj\Debug\MaximumTrianglePathSum.exe
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\MaximumTrianglePathSum\obj\Debug\MaximumTrianglePathSum.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ishaa\source\repos\ProjectEuler\obj\Debug\ProjectEuler.csproj.AssemblyReference.cache
+C:\Users\Ishaa\source\repos\ProjectEuler\obj\Debug\ProjectEuler.csproj.CoreCompileInputs.cache
+C:\Users\Ishaa\source\repos\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+C:\Users\Ishaa\source\repos\ProjectEuler\bin\Debug\ProjectEuler.exe
+C:\Users\Ishaa\source\repos\ProjectEuler\bin\Debug\ProjectEuler.pdb
+C:\Users\Ishaa\source\repos\ProjectEuler\obj\Debug\ProjectEuler.exe
+C:\Users\Ishaa\source\repos\ProjectEuler\obj\Debug\ProjectEuler.pdb

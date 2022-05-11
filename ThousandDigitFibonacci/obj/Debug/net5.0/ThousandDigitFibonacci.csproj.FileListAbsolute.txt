@@ -1,0 +1,16 @@
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\bin\Debug\net5.0\ThousandDigitFibonacci.exe
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\bin\Debug\net5.0\ThousandDigitFibonacci.deps.json
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\bin\Debug\net5.0\ThousandDigitFibonacci.runtimeconfig.json
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\bin\Debug\net5.0\ThousandDigitFibonacci.runtimeconfig.dev.json
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\bin\Debug\net5.0\ThousandDigitFibonacci.dll
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\bin\Debug\net5.0\ref\ThousandDigitFibonacci.dll
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\bin\Debug\net5.0\ThousandDigitFibonacci.pdb
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\obj\Debug\net5.0\ThousandDigitFibonacci.csproj.AssemblyReference.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\obj\Debug\net5.0\ThousandDigitFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\obj\Debug\net5.0\ThousandDigitFibonacci.AssemblyInfoInputs.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\obj\Debug\net5.0\ThousandDigitFibonacci.AssemblyInfo.cs
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\obj\Debug\net5.0\ThousandDigitFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\obj\Debug\net5.0\ThousandDigitFibonacci.dll
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\obj\Debug\net5.0\ref\ThousandDigitFibonacci.dll
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\obj\Debug\net5.0\ThousandDigitFibonacci.pdb
+C:\Users\Ishaa\OneDrive\Desktop\Stuff I Made\C# Console Apps\Challenges\ProjectEulerChallenges\ThousandDigitFibonacci\obj\Debug\net5.0\ThousandDigitFibonacci.genruntimeconfig.cache
